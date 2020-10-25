@@ -1,0 +1,18 @@
+body {
+  background-color: thistle;
+}
+#demo {
+  border: none;
+  background-color: rgb(234, 137, 253);
+  padding: 14px 28px;
+  cursor: pointer;
+  display: inline-block;
+  font-family: cursive;
+  font-size: 30px;
+  position: absolute;
+  top: 30%;
+}
+
+#demo:hover {
+  background: rgb(148, 193, 230);
+}
